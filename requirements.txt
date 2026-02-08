@@ -2,7 +2,6 @@ fastapi==0.111.0
 uvicorn[standard]==0.24.0
 requests==2.31.0
 langchain==0.2.16
-langchain-embeddings
-langchain-community==0.0.34
-chromadb==0.3.34
+langchain-community==0.2.16
+chromadb==0.4.24
 sentence-transformers==2.2.2
