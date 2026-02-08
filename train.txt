@@ -1,0 +1,4 @@
+Hello! I am your knowledge base.
+This is some sample text for testing RAG retrieval.
+FastAPI is used to build APIs.
+LangChain helps with document processing.
